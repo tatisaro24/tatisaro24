@@ -3,6 +3,6 @@
 - _bem vindos ao meu Git Hub_ 
 - Estou aprendendo a usar o Github
   ⛅
-  <img src="https://www.planocritico.com/entenda-melhor-sailor-moon/">
+  <img src="https://br.pinterest.com/pin/103019910217742422/">
   
 - 

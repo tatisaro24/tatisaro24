@@ -3,7 +3,11 @@
 - _bem vindos ao meu Git Hub_ 
 - Estou aprendendo a usar o Github
   ⛅
-  <img src="https://i.pinimg.com/736x/3b/99/0a/3b990abc56799978e7cfcc81b84e41fc.jpg">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9XbzeVmngUEGpemgly-oHrHQAe3zZt8tNMo5yIQdTmw&s">
+  💝
+  
+  
+
   
   
 - 
